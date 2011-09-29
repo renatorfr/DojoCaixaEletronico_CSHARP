@@ -1,0 +1,5 @@
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\DojoCaixaEletronico\DojoCaixaEletronico\bin\Debug\DojoCaixaEletronico.exe
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\DojoCaixaEletronico\DojoCaixaEletronico\bin\Debug\DojoCaixaEletronico.pdb
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\DojoCaixaEletronico\DojoCaixaEletronico\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\DojoCaixaEletronico\DojoCaixaEletronico\obj\x86\Debug\DojoCaixaEletronico.exe
+c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\DojoCaixaEletronico\DojoCaixaEletronico\obj\x86\Debug\DojoCaixaEletronico.pdb
