@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1dc09a7b-b607-4306-8f63-10fa1c7f0cb3" name="rricardo@CIT006704CPS 2011-09-30 10:08:24" runUser="CIT\rricardo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="d95d53b9-9fcb-4820-b942-98c112d9a3c0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rricardo_CIT006704CPS 2011-09-30 10_08_24">
+      <DeploymentItem filename="c:\documents and settings\rricardo\meus documentos\visual studio 2010\Projects\DojoCaixaEletronico\DojoCaixaEletronico\bin\Debug\DojoCaixaEletronico.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-09-30T10:08:24.7862110-03:00" queuing="2011-09-30T10:08:24.8018368-03:00" start="2011-09-30T10:08:24.8174626-03:00" finish="2011-09-30T10:08:25.0987270-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="5" executed="5" passed="4" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DeveSacarUmaNotaDe10EUmaDe20QuandoPedir30" storage="c:\documents and settings\rricardo\meus documentos\visual studio 2010\projects\dojocaixaeletronico\dojocaixaeletronico.tests\bin\debug\dojocaixaeletronico.tests.dll" id="52fd5ab9-7a50-a1af-ae6f-da63fc30cac1">
+      <Execution id="ef7abe0a-191f-4bf4-8652-abe1ef2a59ac" />
+      <TestMethod codeBase="C:/Documents and Settings/rricardo/Meus documentos/Visual Studio 2010/Projects/DojoCaixaEletronico/DojoCaixaEletronico.Tests/bin/Debug/DojoCaixaEletronico.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoCaixaEletronico.Tests.CaixaEletronicoTests, DojoCaixaEletronico.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeveSacarUmaNotaDe10EUmaDe20QuandoPedir30" />
+    </UnitTest>
+    <UnitTest name="DeveSacarUmaNotaDe10QuandoPedir10" storage="c:\documents and settings\rricardo\meus documentos\visual studio 2010\projects\dojocaixaeletronico\dojocaixaeletronico.tests\bin\debug\dojocaixaeletronico.tests.dll" id="72dac4e5-094e-9000-30c3-7e6d6bb3ba43">
+      <Execution id="3d0e6919-1da4-4379-9475-d19a7f49d0e7" />
+      <TestMethod codeBase="C:/Documents and Settings/rricardo/Meus documentos/Visual Studio 2010/Projects/DojoCaixaEletronico/DojoCaixaEletronico.Tests/bin/Debug/DojoCaixaEletronico.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoCaixaEletronico.Tests.CaixaEletronicoTests, DojoCaixaEletronico.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeveSacarUmaNotaDe10QuandoPedir10" />
+    </UnitTest>
+    <UnitTest name="DeveSacarDuasDe20QuandoPedir40" storage="c:\documents and settings\rricardo\meus documentos\visual studio 2010\projects\dojocaixaeletronico\dojocaixaeletronico.tests\bin\debug\dojocaixaeletronico.tests.dll" id="4c113da2-5283-d388-8f2c-ed9d23e0db8e">
+      <Execution id="33d356dc-ef3c-4886-b47a-4db87ca9e910" />
+      <TestMethod codeBase="C:/Documents and Settings/rricardo/Meus documentos/Visual Studio 2010/Projects/DojoCaixaEletronico/DojoCaixaEletronico.Tests/bin/Debug/DojoCaixaEletronico.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoCaixaEletronico.Tests.CaixaEletronicoTests, DojoCaixaEletronico.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeveSacarDuasDe20QuandoPedir40" />
+    </UnitTest>
+    <UnitTest name="DeveSacar0QuandoPedido0" storage="c:\documents and settings\rricardo\meus documentos\visual studio 2010\projects\dojocaixaeletronico\dojocaixaeletronico.tests\bin\debug\dojocaixaeletronico.tests.dll" id="d1ae87f0-5f2c-14ec-5b5e-42c531d3c50c">
+      <Execution id="1cc1cc98-043f-4f63-a613-147176b41824" />
+      <TestMethod codeBase="C:/Documents and Settings/rricardo/Meus documentos/Visual Studio 2010/Projects/DojoCaixaEletronico/DojoCaixaEletronico.Tests/bin/Debug/DojoCaixaEletronico.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoCaixaEletronico.Tests.CaixaEletronicoTests, DojoCaixaEletronico.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeveSacar0QuandoPedido0" />
+    </UnitTest>
+    <UnitTest name="DeveSacarUmaNotaDe20QuandoPedir20" storage="c:\documents and settings\rricardo\meus documentos\visual studio 2010\projects\dojocaixaeletronico\dojocaixaeletronico.tests\bin\debug\dojocaixaeletronico.tests.dll" id="4454e46a-bd20-09f0-c3f4-ed70dd5726c8">
+      <Execution id="fc49fe20-27b2-4f50-ba41-933840cf3ea5" />
+      <TestMethod codeBase="C:/Documents and Settings/rricardo/Meus documentos/Visual Studio 2010/Projects/DojoCaixaEletronico/DojoCaixaEletronico.Tests/bin/Debug/DojoCaixaEletronico.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoCaixaEletronico.Tests.CaixaEletronicoTests, DojoCaixaEletronico.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeveSacarUmaNotaDe20QuandoPedir20" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4454e46a-bd20-09f0-c3f4-ed70dd5726c8" executionId="fc49fe20-27b2-4f50-ba41-933840cf3ea5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4c113da2-5283-d388-8f2c-ed9d23e0db8e" executionId="33d356dc-ef3c-4886-b47a-4db87ca9e910" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52fd5ab9-7a50-a1af-ae6f-da63fc30cac1" executionId="ef7abe0a-191f-4bf4-8652-abe1ef2a59ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="72dac4e5-094e-9000-30c3-7e6d6bb3ba43" executionId="3d0e6919-1da4-4379-9475-d19a7f49d0e7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d1ae87f0-5f2c-14ec-5b5e-42c531d3c50c" executionId="1cc1cc98-043f-4f63-a613-147176b41824" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fc49fe20-27b2-4f50-ba41-933840cf3ea5" testId="4454e46a-bd20-09f0-c3f4-ed70dd5726c8" testName="DeveSacarUmaNotaDe20QuandoPedir20" computerName="CIT006704CPS" duration="00:00:00.0156091" startTime="2011-09-30T10:08:24.8174626-03:00" endTime="2011-09-30T10:08:25.0205980-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc49fe20-27b2-4f50-ba41-933840cf3ea5">
+    </UnitTestResult>
+    <UnitTestResult executionId="33d356dc-ef3c-4886-b47a-4db87ca9e910" testId="4c113da2-5283-d388-8f2c-ed9d23e0db8e" testName="DeveSacarDuasDe20QuandoPedir40" computerName="CIT006704CPS" duration="00:00:00.0173921" startTime="2011-09-30T10:08:25.0205980-03:00" endTime="2011-09-30T10:08:25.0518496-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33d356dc-ef3c-4886-b47a-4db87ca9e910">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method DojoCaixaEletronico.Tests.CaixaEletronicoTests.DeveSacarDuasDe20QuandoPedir40 threw exception: 
+System.ArgumentException: Já foi adicionado um item com a mesma chave.</Message>
+          <StackTrace>    em System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   em System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   em System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   em DojoCaixaEletronico.CaixaEletronico.saque(Int32 valor) na C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoCaixaEletronico\DojoCaixaEletronico\CaixaEletronico.cs:linha 24
+   em DojoCaixaEletronico.Tests.CaixaEletronicoTests.DeveSacarDuasDe20QuandoPedir40() na C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoCaixaEletronico\DojoCaixaEletronico.Tests\CaixaEletronicoTests.cs:linha 52
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ef7abe0a-191f-4bf4-8652-abe1ef2a59ac" testId="52fd5ab9-7a50-a1af-ae6f-da63fc30cac1" testName="DeveSacarUmaNotaDe10EUmaDe20QuandoPedir30" computerName="CIT006704CPS" duration="00:00:00.0002352" startTime="2011-09-30T10:08:25.0518496-03:00" endTime="2011-09-30T10:08:25.0518496-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef7abe0a-191f-4bf4-8652-abe1ef2a59ac">
+    </UnitTestResult>
+    <UnitTestResult executionId="3d0e6919-1da4-4379-9475-d19a7f49d0e7" testId="72dac4e5-094e-9000-30c3-7e6d6bb3ba43" testName="DeveSacarUmaNotaDe10QuandoPedir10" computerName="CIT006704CPS" duration="00:00:00.0076804" startTime="2011-09-30T10:08:25.0674754-03:00" endTime="2011-09-30T10:08:25.0674754-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d0e6919-1da4-4379-9475-d19a7f49d0e7">
+    </UnitTestResult>
+    <UnitTestResult executionId="1cc1cc98-043f-4f63-a613-147176b41824" testId="d1ae87f0-5f2c-14ec-5b5e-42c531d3c50c" testName="DeveSacar0QuandoPedido0" computerName="CIT006704CPS" duration="00:00:00.0001700" startTime="2011-09-30T10:08:25.0831012-03:00" endTime="2011-09-30T10:08:25.0831012-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1cc1cc98-043f-4f63-a613-147176b41824">
+    </UnitTestResult>
+  </Results>
+</TestRun>
